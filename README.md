@@ -1,2 +1,3 @@
-# WeiboSearch
-爬取微博移动端的信息
+利用Scrapy+Cookies池爬取微博信息
+
+目前该项目只是照着崔大大的视频敲了一遍，其中cookies池的连接还没有完成，cookies中还没有可用的微博账号。
